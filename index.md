@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# Home
+<!-- # Home
 <b>Home</b>
-* * *
+* * * -->
 
-## About
+### About
 
 <i>An independent publishing house.</i>
 
