@@ -5,7 +5,7 @@ layout: default
 <b>Home</b>
 * * * -->
 
-### About
+# About
 
 <i>An independent publishing house.</i>
 
