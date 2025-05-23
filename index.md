@@ -15,4 +15,4 @@ layout: default
 
 ---
 
-Copyright &copy; 2025 [sandbox.house](https://sandbox.house/).
+Copyright &copy; 2025 [sandbox.house](https://sandbox.house/)
