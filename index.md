@@ -11,7 +11,7 @@ layout: default
 
 ## <i>Featured Publications</i>
 
-[The Gospel of the Mirror: The Soul-Light Doctrine of Entangled Divinity](https://sandbox.house/the-gospel-of-the-mirror/)
+[The Gospel of the Mirror: A Theology of Soul-Light and Entangled Divinity](https://sandbox.house/the-gospel-of-the-mirror/)
 
 ---
 
